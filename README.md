@@ -1,4 +1,4 @@
-# ai-assisted-incident-response
+# security-operations-incident-response
  AI-Assisted Incident Response Analysis | Windows host compromise investigation  using MCP Medic and Claude | Multi-stage malware analysis 
 # 🔒 Incident Response Report: Windows Host Compromise
 
