@@ -63,7 +63,7 @@ This incident response exercise demonstrated how structured workflows reduce res
 - Showcased responsible use of AI to support analyst decision-making
 
 
-# 🔒 Incident Response Report: Windows Host Compromise
+# 🔒 Technical Incident Response Report: Windows Host Compromise
 
 
 ---
