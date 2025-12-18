@@ -46,7 +46,30 @@ A high-severity alert indicated suspicious activity on a Windows workstation, su
 ## 📊 Operational & Business Impact
 This incident response exercise demonstrated how structured workflows reduce response time, improve consistency, and limit organizational risk. The investigation highlighted the importance of endpoint visibility, credential protection, and documented response procedures within Security Operations.
 
+
 ---
+
+## Response Metrics
+- **Mean Time to Detection (MTTD):** ~30 minutes  
+- **Mean Time to Containment (MTTC):** ~1 hour  
+- **Mean Time to Remediation (MTTR):** ~2 hours  
+
+---
+
+## Escalation & Communication
+- Incident escalated to Security Operations leadership due to high severity  
+- Status and findings communicated to IT and management stakeholders  
+- Incident documentation prepared for post-incident review
+
+---
+
+## Incident Response Playbook Snippet
+- If alert severity is **High**, escalate to Security Operations lead  
+- If credential exposure is suspected, initiate credential hygiene actions  
+- If lateral movement is suspected, isolate affected endpoint immediately  
+- Document all actions taken and maintain timeline of events
+
+
 
 ## 📄 Deliverables
 - Incident investigation notes  
@@ -55,6 +78,11 @@ This incident response exercise demonstrated how structured workflows reduce res
 - Management-level incident summary  
 
 ---
+### Investigation Summary
+A detailed technical investigation was conducted to validate malicious activity, identify persistence mechanisms, and confirm incident scope.
+
+- [Full Technical Investigation Report](investigation/investigation-report.md)
+
 
 ## Key Takeaways (Security Operations Focus)
 - Applied structured incident response processes aligned with Security Operations practices  
@@ -63,5 +91,9 @@ This incident response exercise demonstrated how structured workflows reduce res
 - Showcased responsible use of AI to support analyst decision-making
 
 
+## Lessons Learned
+- Broader endpoint monitoring can reduce detection gaps  
+- Tuning alerts for false positives improves operational efficiency  
+- Manual validation remains crucial despite tool assistance
 
 
