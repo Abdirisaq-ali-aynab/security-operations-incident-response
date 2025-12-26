@@ -1,7 +1,7 @@
 # 🛡️ Security Operations – AI-Assisted Incident Response
 
 ## Overview
-This project simulates a real-world security incident affecting a Windows endpoint and demonstrates how a Security Operations team manages the incident lifecycle end to end. The focus is on incident triage, investigation, containment, operational decision-making, and post-incident improvement. AI-assisted analysis was leveraged to enhance investigation efficiency while maintaining analyst-driven validation and control.
+This project simulates a real-world security incident affecting a Windows endpoint and demonstrates how a Security Operations team manages the incident lifecycle end to end. The focus is on incident triage, investigation, containment, operational decision-making, and post-incident improvement. Model Context Protocol (MCP) was leveraged to enhance investigation efficiency while maintaining analyst-driven validation and control.
 
 ---
 
